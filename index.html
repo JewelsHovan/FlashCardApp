@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flashcard App</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Milestone I Flash Cards</h1>
+        </header>
+
+        <section id="class-selection">
+            <h2>Select a Class</h2>
+            <div id="class-list"></div>
+        </section>
+
+        <section id="flashcard-section" class="hidden">
+            <div class="flashcard-container">
+                <div id="flashcard-content" class="flashcard"></div>
+                <p id="card-number" class="card-number"></p>
+            </div>
+            <div class="flashcard-controls">
+                <button id="flip-card-btn" class="btn">Show Answer</button>
+                <button id="known-btn" class="btn btn-success">I Know This</button>
+                <button id="dont-know-btn" class="btn btn-danger">I Don't Know</button>
+            </div>
+            <div class="progress">
+                <div id="progress-bar"><div></div></div>
+                <p id="progress-text"></p>
+            </div>
+            <button id="home-btn" class="btn btn-secondary">Back to Classes</button>
+        </section>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

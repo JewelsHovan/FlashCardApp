@@ -1,0 +1,653 @@
+{
+  "SIADS 501": {
+    "Being a Data Scientist": {
+      "Week 1": [
+        {
+          "question_id": "501.1.1",
+          "question": "What is the four-stage pipeline and how does it apply to your project?",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ],
+      "Week 2": [
+        {
+          "question_id": "501.2.1",
+          "question": "Explain how the law of small numbers applies to the work you did for your project.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "501.2.2",
+          "question": "What sources of bias did you identify in your project?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "501.2.3",
+          "question": "To what degree did you follow the “10 Rules for Creating Reproducible Results in Data Science” in your project work?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "501.2.4",
+          "question": "How did you apply data cleaning principles in your project?",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ],
+      "Week 3": [
+        {
+          "question_id": "501.3.1",
+          "question": "Are there places where overfitting may have played a role in your analyses?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "501.3.2",
+          "question": "What is cross-validation?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "501.3.3",
+          "question": "What is p-hacking and does it apply to your project work?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "501.3.4",
+          "question": "What is the relationship between correlation and causation?",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ],
+      "Week 4": [
+        {
+          "question_id": "501.4.1",
+          "question": "How did you engage in the process of storytelling when producing your project report?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "501.4.2",
+          "question": "Discuss the role of uncertainty in your project.",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ]
+    }
+  },
+  "SIADS 503": {
+    "Data Science Ethics": {
+      "Week 1": [
+        {
+          "question_id": "503.1.1",
+          "question": "List 5 misconceptions about data science ethics and explain how each of them might apply to your project.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "503.1.2",
+          "question": "Comment on the importance of data privacy in your project work.",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ],
+      "Week 2": [
+        {
+          "question_id": "503.2.1",
+          "question": "Describe how your project could be used as a case study about bias.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "503.2.2",
+          "question": "With respect to Data Provenance, Aggregation, and Trust, what does your project \"leave out\"?",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ],
+      "Week 3": [
+        {
+          "question_id": "503.3.1",
+          "question": "Discuss issues around data provenance with respect to the data you used for your project.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "503.3.2",
+          "question": "What role does trust play in the analyses that you did for your project?",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ],
+      "Week 4": [
+        {
+          "question_id": "503.4.1",
+          "question": "Comment on issues arising from the publication of results stemming from your project.",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ]
+    }
+  },
+  "SIADS 505": {
+    "Data Manipulation": {
+      "Week 1": [
+        {
+          "question_id": "505.1.1",
+          "question": "Describe how regular expressions can be used to analyze text-based data.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "505.1.2",
+          "question": "Describe some of the functionality that NumPy provides and explain how it is related to the pandas library.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "505.1.3",
+          "question": "Provide an example of how you can use the NumPy library in the analysis of your project data.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "505.1.4",
+          "question": "What are some of the challenges associated with using NumPy?",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ],
+      "Week 2": [
+        {
+          "question_id": "505.2.1",
+          "question": "Describe the pandas Series and DataFrame objects and explain how they are related to each other.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "505.2.2",
+          "question": "How does indexing work with pandas DataFrames and Series? Provide examples of indexing that you used in your project.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "505.2.3",
+          "question": "List different ways to deal with missing values and explain when each of those is appropriate. Provide examples from your project of how you either had to, or, if you didn't have missing values, how you would have, dealt with missing values.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "505.2.4",
+          "question": "What are some common techniques that you use to manipulate pandas data structures.",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ],
+      "Week 3": [
+        {
+          "question_id": "505.3.1",
+          "question": "Describe how you used merging or joining in your project. Suggest ways in which the merging could have been made more efficient.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "505.3.2",
+          "question": "How do/did you decide to use group by when performing exploratory data analysis. What are some characteristics of variables that you can use to group by?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "505.3.3",
+          "question": "Pivot tables are often used to summarize data. Describe the process of taking data in \"long\" form and using a pivot table to convert it to \"wide\" form.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "505.3.4",
+          "question": "Time series functionality in pandas allows you to \"upscale\" and \"downscale\" time-based data. Explain how these functions work and indicate when it's appropriate to use them.",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ],
+      "Week 4": [
+        {
+          "question_id": "505.4.1",
+          "question": "Describe the process of generating hypotheses, including how you come up with a null hypothesis. Why are null hypotheses used?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "505.4.2",
+          "question": "A t-test is often used to look for differences between two groups. What are some of the assumptions about the data that need to be met in order to conduct a statistically valid t-test.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "505.4.3",
+          "question": "Explain what p-hacking is and why it's a bad thing.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "505.4.4",
+          "question": "The scipy package, while providing some useful statistical functionality, isn't as widely used one might think. Suggest reasons why that's the case.",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ]
+    }
+  },
+  "SIADS 511": {
+    "SQL and Databases": {
+      "Week 1": [
+        {
+          "question_id": "511.1.1",
+          "question": "How would you set up a database to store the data that you used in your project?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "511.1.2",
+          "question": "Why do we use indexes with databases?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "511.1.3",
+          "question": "Provide an example of an AUTO_INCREMENT field that you might use with the data from your project.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "511.1.4",
+          "question": "What are some common data types in SQL databases?",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ],
+      "Week 2": [
+        {
+          "question_id": "511.2.1",
+          "question": "What's the difference between a primary key and a logical key?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "511.2.2",
+          "question": "What does database normalization mean and why is it important?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "511.2.3",
+          "question": "Describe how you would use a JOIN statement to combine data from two tables.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "511.2.4",
+          "question": "How do you model a many-to-many relationship in a SQL database?",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ],
+      "Week 3": [
+        {
+          "question_id": "511.3.1",
+          "question": "Give an example of how transactions are useful for mitigating problem associated with concurrency.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "511.3.2",
+          "question": "What are stored procedures? Give an example of a stored procedure that you might have found useful in your project if you had used a SQL database to store your data.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "511.3.3",
+          "question": "What are subqueries and when should they be used?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "511.3.4",
+          "question": "Provide an example of a GROUP BY statement that could be used in your project if your data was stored in a SQL database.",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ],
+      "Week 4": [
+        {
+          "question_id": "511.4.1",
+          "question": "Describe some ways to store text data in SQL databases.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "511.4.2",
+          "question": "What are some common functions that can be applied to text data in SQL databases?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "511.4.3",
+          "question": "What is a b-tree index?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "511.4.4",
+          "question": "Show how regular expressions can be used with SQL databases.",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ]
+    }
+  },
+  "SIADS 515": {
+    "Efficient Data Processing": {
+      "Week 1": [
+        {
+          "question_id": "515.1.1",
+          "question": "How would you explain what the linux CLI is to someone new to data science?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "515.1.2",
+          "question": "What are some of the more common CLI commands?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "515.1.3",
+          "question": "What are some of the difficulties associated with using the CLI?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "515.1.4",
+          "question": "Describe ways in which you could have (or did) use the linux command line in your project.",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ],
+      "Week 2": [
+        {
+          "question_id": "515.2.1",
+          "question": "Describe some of the common Jupyter magic commands and identify those which have proved to be useful to you in your work to date.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "515.2.2",
+          "question": "Look at the code that you used for your project and see if you can identify at least one place where you either used or could have used a generator.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "515.2.3",
+          "question": "Recall the use of decorators and suggest at least one place in your code where you could use this approach.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "515.2.4",
+          "question": "Caching involves storing the results of a deterministic function (i.e. given an input, the output is exactly the same each time the function is called). Identify one place in your code where you used a function and indicate why you did or did not use caching.",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ],
+      "Week 3": [
+        {
+          "question_id": "515.3.1",
+          "question": "While developing your code for the project there were likely times that your code didn’t work, or didn’t work as expected. Describe the process you followed to fix the problem(s) with your code.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "515.3.2",
+          "question": "Suggest some reasons why print debugging, while common, may not be the best approach.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "515.3.3",
+          "question": "JupyterLab provides access to a debugger but it isn’t commonly used. Propose reasons why that’s the case and suggest ways in which the debugger could be changed to make it more accessible.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "515.3.4",
+          "question": "One of the more common errors is the syntax error. Sometimes, syntax errors are accompanied by a statement like “missing : “. Explain why, if python knows what’s missing, it can’t simply fix the problem for you.",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ],
+      "Week 4": [
+        {
+          "question_id": "515.4.1",
+          "question": "Why do we care about code complexity?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "515.4.2",
+          "question": "Identify places in your code where the complexity of your approach resulted in suboptimal efficiency. Propose ways in which you could have improved your code.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "515.4.3",
+          "question": "Jupyter notebooks promote a fragmented approach to coding, with each cell being executed independently of others. Explain why this promotes inefficient code design and suggest ways to promote the creation of efficient code.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "515.4.4",
+          "question": "Explain how source code for underlying libraries such as pandas, numpy, and scipy can be examined to understand how the underlying operations are coded.",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ]
+    }
+  },
+  "SIADS 516": {
+    "Big Data: Scalable Data Processing": {
+      "Week 1": [
+        {
+          "question_id": "516.1.1",
+          "question": "What are the characteristics of Big Data?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "516.1.2",
+          "question": "What is map reduce and how can it be used to help analyze Big Data?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "516.1.3",
+          "question": "What are some advantages and limitations of using distributed computing?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "516.1.4",
+          "question": "Provide a description of Hadoop and explain why it’s a reasonable choice for analyzing Big Data.",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ],
+      "Week 2": [
+        {
+          "question_id": "516.2.1",
+          "question": "What is Apache Spark?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "516.2.2",
+          "question": "How do Resilient Distributed Datasets facilitate the use of distributed computing?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "516.2.3",
+          "question": "How do Pair RDDs differ from plain RDDs, and why is that important?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "516.2.4",
+          "question": "What are some limitations of using RDDs?",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ],
+      "Week 3": [
+        {
+          "question_id": "516.3.1",
+          "question": "What are Spark DataFrames?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "516.3.2",
+          "question": "Describe how Spark DataFrames can be used for the manipulation and analysis of structured data.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "516.3.3",
+          "question": "What are user-defined functions and when is it appropriate to use them?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "516.3.4",
+          "question": "What are some limitations of using Spark DataFrames?",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ],
+      "Week 4": [
+        {
+          "question_id": "516.4.1",
+          "question": "Describe how Spark SQL works and explain why it is sometimes advantageous to use it.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "516.4.2",
+          "question": "Describe, using an example, of how Spark DataFrames can be merged or joined using Spark SQL.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "516.4.3",
+          "question": "How do user-defined functions (UDFs) work in Spark SQL and explain how they differ from UDFs from the previous week.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "516.4.4",
+          "question": "Describe a scenario where you would interchange data between Spark and Pandas.",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ]
+    }
+  },
+  "SIADS 521": {
+    "Visual Exploration of Data": {
+      "Week 1": [
+        {
+          "question_id": "521.1.1",
+          "question": "What is matplotlib?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "521.1.2",
+          "question": "Describe how you could use matplotlib to create a histogram of some data that you used in your project.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "521.1.3",
+          "question": "Create a boxplot of one of the variables from your data.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "521.1.4",
+          "question": "Create a univariate plot of your choice and annotate something noteworthy in your plot.",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ],
+      "Week 2": [
+        {
+          "question_id": "521.2.1",
+          "question": "What is meant by “the computational narrative”? How did you create a computational narrative in your project work?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "521.2.2",
+          "question": "Demonstrate the effect of changing the number of bins in a histogram of one of your variables.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "521.2.3",
+          "question": "What are the advantages and drawbacks of using violin plots?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "521.2.4",
+          "question": "Show how a probability plot can be used to gain insights about any of the variables you used in your project.",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ],
+      "Week 3": [
+        {
+          "question_id": "521.3.1",
+          "question": "What sorts of data are suitable for use in heat maps?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "521.3.2",
+          "question": "What are tree maps used for?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "521.3.3",
+          "question": "Demonstrate the use of a SPLOM with data from your project.",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ],
+      "Week 4": [
+        {
+          "question_id": "521.4.1",
+          "question": "What are some advantages and drawbacks of using 3D plots?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "521.4.2",
+          "question": "What is autocorrelation and how can visualization be used to detect it?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "521.4.3",
+          "question": "Describe some of the challenges associated with using geographic maps as visualizations.",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ]
+    }
+  },
+  "SIADS 522": {
+    "Information Visualization I": {
+      "Week 1": [
+        {
+          "question_id": "522.1.1",
+          "question": "What is Anscombe’s Quartet and why is it important in visualization?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "522.1.2",
+          "question": "Who is Edward Tufte and why is he important in visualization?",
+          "answer": "Edward Tufte is a prominent figure in the field of information design and data visualization. He is regarded as one of the pioneers in establishing the principles and best practices for effectively presenting data in visiual formats. His work focuses on how we think about and create visual representatiosn of complex information. He is a primary advocate for minimalist design, focusing on data-ink ratio and chartjunk. He also talks about the lie factor, the importance of accuracy of visualzing data, a measure of how much a graphic disorts the data it is meant to represent. I know him best for his distaste in pie charts (they should never be used in his opinion)"
+        },
+        {
+          "question_id": "522.1.3",
+          "question": "What is the block model and how might it apply to the work you did in your project?",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ],
+      "Week 2": [
+        {
+          "question_id": "522.2.1",
+          "question": "What are nominal, ordinal and quantitative data types? Provide examples from your project.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "522.2.2",
+          "question": "In visualization, what does “encoding” mean?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "522.2.3",
+          "question": "In visualization, what do “expressiveness” and “effectiveness” mean?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "522.2.4",
+          "question": "What is the grammar of graphics?",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ],
+      "Week 3": [
+        {
+          "question_id": "522.3.1",
+          "question": "Describe how the limits of perceptual systems affect your choices of visualizations.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "522.3.2",
+          "question": "What is preattentive processing and describe how it applies to visualizations you generated for your project.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "522.3.3",
+          "question": "What does Gestalt psychology have to offer the field of visualization?",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "522.3.4",
+          "question": "What is change blindness?",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ],
+      "Week 4": [
+        {
+          "question_id": "522.4.1",
+          "question": "Comment on several design principles that you used when generating visualizations for your project.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "522.4.2",
+          "question": "Provide a hypothetical example of how you could lie about your project data using visualizations.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "522.4.3",
+          "question": "What is chart junk? Comment on the degree to which you have chart junk in your visualizations.",
+          "answer": "REPLACE_WITH_ANSWER"
+        },
+        {
+          "question_id": "522.4.4",
+          "question": "Discuss the role of ethics when creating visualizations.",
+          "answer": "REPLACE_WITH_ANSWER"
+        }
+      ]
+    }
+  }
+}
